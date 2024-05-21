@@ -18,7 +18,7 @@ const archive = require("@pulumi/archive");
 3. create a serverless function
     -create API gateway
     -create lamda function
-4. create a component resource*/
+4. create a component resource*///
 
 
 const lambda = archive.getFile({
